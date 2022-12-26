@@ -1,0 +1,10 @@
+body {
+  background: rgb(33, 37, 41);
+}
+
+.section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
